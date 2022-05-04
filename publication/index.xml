@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Dynamic Strategy of Keyframe Selection With PD Controller for VSLAM Systems</title>
-      <link>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</link>
-      <pubDate>Wed, 04 May 2022 05:43:12 +0000</pubDate>
-      <guid>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CEB-Map: Visual Localization Error Prediction for Safe Navigation</title>
       <link>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</link>
       <pubDate>Wed, 04 May 2022 05:40:53 +0000</pubDate>
@@ -41,6 +33,14 @@
       <link>https://robot-vision-and-navigation-lab.github.io/publication/following-closely-a-robust-monocular-person-following-system-for-mobile-robot/</link>
       <pubDate>Mon, 25 Apr 2022 05:48:29 +0000</pubDate>
       <guid>https://robot-vision-and-navigation-lab.github.io/publication/following-closely-a-robust-monocular-person-following-system-for-mobile-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Strategy of Keyframe Selection With PD Controller for VSLAM Systems</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</link>
+      <pubDate>Tue, 01 Feb 2022 05:43:12 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</guid>
       <description></description>
     </item>
     
