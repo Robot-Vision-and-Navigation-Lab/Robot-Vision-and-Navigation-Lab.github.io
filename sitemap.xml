@@ -54,6 +54,4 @@
   <url>
     <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/research_highlights/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://example.com/research_highlights/</loc><changefreq>weekly</changefreq></url></urlset>
