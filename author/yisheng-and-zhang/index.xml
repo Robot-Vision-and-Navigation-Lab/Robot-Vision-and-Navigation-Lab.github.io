@@ -5,20 +5,12 @@
     <link>https://robot-vision-and-navigation-lab.github.io/author/yisheng-and-zhang/</link>
       <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/yisheng-and-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yisheng and Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 05:49:13 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 05:47:29 +0000</lastBuildDate>
     <image>
       <url>https://robot-vision-and-navigation-lab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Yisheng and Zhang</title>
       <link>https://robot-vision-and-navigation-lab.github.io/author/yisheng-and-zhang/</link>
     </image>
-    
-    <item>
-      <title>Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker</title>
-      <link>https://robot-vision-and-navigation-lab.github.io/publication/mapping-while-following-2d-lidar-slam-in-indoor-dynamic-environments-with-a-person-tracker/</link>
-      <pubDate>Wed, 04 May 2022 05:49:13 +0000</pubDate>
-      <guid>https://robot-vision-and-navigation-lab.github.io/publication/mapping-while-following-2d-lidar-slam-in-indoor-dynamic-environments-with-a-person-tracker/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder</title>
@@ -33,6 +25,14 @@
       <link>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</link>
       <pubDate>Wed, 04 May 2022 05:43:12 +0000</pubDate>
       <guid>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/mapping-while-following-2d-lidar-slam-in-indoor-dynamic-environments-with-a-person-tracker/</link>
+      <pubDate>Wed, 01 Dec 2021 05:49:13 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/mapping-while-following-2d-lidar-slam-in-indoor-dynamic-environments-with-a-person-tracker/</guid>
       <description></description>
     </item>
     
