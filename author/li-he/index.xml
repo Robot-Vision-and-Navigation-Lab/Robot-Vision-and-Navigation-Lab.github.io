@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li He | Robot Vision and Navigation Lab</title>
-    <link>https://example.com/author/li-he/</link>
-      <atom:link href="https://example.com/author/li-he/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://robot-vision-and-navigation-lab.github.io/author/li-he/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/li-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Li He</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://robot-vision-and-navigation-lab.github.io/author/li-he/avatar_hu3802e4eb7a73b505693d1f235e128abe_4140_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Li He</title>
-      <link>https://example.com/author/li-he/</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/author/li-he/</link>
     </image>
     
   </channel>

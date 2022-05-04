@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robot Vision and Navigation Lab</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://robot-vision-and-navigation-lab.github.io/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Robot Vision and Navigation Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 03:39:34 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://robot-vision-and-navigation-lab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Robot Vision and Navigation Lab</title>
-      <link>https://example.com/</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/</link>
     </image>
     
     <item>
       <title>Robustness Improvement of Using Pre-Trained Network in Visual Odometry for On-Road Driving</title>
-      <link>https://example.com/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</link>
       <pubDate>Wed, 04 May 2022 03:39:34 +0000</pubDate>
-      <guid>https://example.com/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</guid>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/preprint/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -45,33 +45,33 @@
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://robot-vision-and-navigation-lab.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/contact/</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>https://robot-vision-and-navigation-lab.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/people/</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/people/</guid>
+      <guid>https://robot-vision-and-navigation-lab.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>https://example.com/research_highlights/</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/research_highlights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/research_highlights/</guid>
+      <guid>https://robot-vision-and-navigation-lab.github.io/research_highlights/</guid>
       <description></description>
     </item>
     

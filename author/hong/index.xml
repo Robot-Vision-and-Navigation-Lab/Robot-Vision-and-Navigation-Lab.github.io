@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hong | Robot Vision and Navigation Lab</title>
-    <link>https://example.com/author/hong/</link>
-      <atom:link href="https://example.com/author/hong/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://robot-vision-and-navigation-lab.github.io/author/hong/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Hong</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 03:39:34 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://robot-vision-and-navigation-lab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Hong</title>
-      <link>https://example.com/author/hong/</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/author/hong/</link>
     </image>
     
     <item>
       <title>Robustness Improvement of Using Pre-Trained Network in Visual Odometry for On-Road Driving</title>
-      <link>https://example.com/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</link>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</link>
       <pubDate>Wed, 04 May 2022 03:39:34 +0000</pubDate>
-      <guid>https://example.com/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</guid>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</guid>
       <description></description>
     </item>
     
