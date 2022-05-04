@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Q.-H. and Zhang | Robot Vision and Navigation Lab</title>
+    <link>https://example.com/author/max-q.-h.-and-zhang/</link>
+      <atom:link href="https://example.com/author/max-q.-h.-and-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Max Q.-H. and Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 03:39:34 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Max Q.-H. and Zhang</title>
+      <link>https://example.com/author/max-q.-h.-and-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Robustness Improvement of Using Pre-Trained Network in Visual Odometry for On-Road Driving</title>
+      <link>https://example.com/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</link>
+      <pubDate>Wed, 04 May 2022 03:39:34 +0000</pubDate>
+      <guid>https://example.com/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
