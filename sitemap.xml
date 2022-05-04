@@ -4,29 +4,9 @@
   
   
   <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/publication-type/2/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/authors/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/author/chaoqun-and-he/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/author/chen/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/author/lei-and-wang/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/author/li-and-meng/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/publication_types/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/publication/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://robot-vision-and-navigation-lab.github.io/author/weinan-and-zhu/</loc><lastmod>2022-05-04T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://robot-vision-and-navigation-lab.github.io/publication-type/3/</loc><lastmod>2022-04-25T05:48:29+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/authors/</loc><lastmod>2022-04-25T05:48:29+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://robot-vision-and-navigation-lab.github.io/publication/following-closely-a-robust-monocular-person-following-system-for-mobile-robot/</loc><lastmod>2022-04-25T05:48:29+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -35,6 +15,12 @@
     <loc>https://robot-vision-and-navigation-lab.github.io/author/hong/</loc><lastmod>2022-04-25T05:48:29+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://robot-vision-and-navigation-lab.github.io/author/jieting-and-pan/</loc><lastmod>2022-04-25T05:48:29+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/publication_types/</loc><lastmod>2022-04-25T05:48:29+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/publication/</loc><lastmod>2022-04-25T05:48:29+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/</loc><lastmod>2022-04-25T05:48:29+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://robot-vision-and-navigation-lab.github.io/author/weinan-and-zhang/</loc><lastmod>2022-04-25T05:48:29+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -54,9 +40,15 @@
   <url>
     <loc>https://robot-vision-and-navigation-lab.github.io/author/yisheng-and-zhang/</loc><lastmod>2022-04-15T05:47:29+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/publication-type/2/</loc><lastmod>2022-02-01T05:43:12+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/author/chen/</loc><lastmod>2022-02-01T05:43:12+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</loc><lastmod>2022-02-01T05:43:12+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://robot-vision-and-navigation-lab.github.io/author/lei-and-lin/</loc><lastmod>2022-02-01T05:43:12+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/author/weinan-and-zhu/</loc><lastmod>2022-02-01T05:43:12+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://robot-vision-and-navigation-lab.github.io/author/xubin-and-he/</loc><lastmod>2022-02-01T05:43:12+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -81,6 +73,14 @@
     <loc>https://robot-vision-and-navigation-lab.github.io/author/shing-yan-and-wang/</loc><lastmod>2021-12-01T03:39:34+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://robot-vision-and-navigation-lab.github.io/publication/robust-improvement-in-3d-object-landmark-inference-for-semantic-mapping/</loc><lastmod>2021-05-30T05:44:21+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</loc><lastmod>2021-05-15T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/author/chaoqun-and-he/</loc><lastmod>2021-05-15T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/author/lei-and-wang/</loc><lastmod>2021-05-15T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://robot-vision-and-navigation-lab.github.io/author/li-and-meng/</loc><lastmod>2021-05-15T05:40:53+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://robot-vision-and-navigation-lab.github.io/author/chaoqun-and-ma/</loc><lastmod>2020-12-01T05:46:14+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

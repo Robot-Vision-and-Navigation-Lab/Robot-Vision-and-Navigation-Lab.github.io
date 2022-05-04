@@ -5,20 +5,12 @@
     <link>https://robot-vision-and-navigation-lab.github.io/author/weinan-and-zhu/</link>
       <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/weinan-and-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Weinan and Zhu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 05:40:53 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 05:43:12 +0000</lastBuildDate>
     <image>
       <url>https://robot-vision-and-navigation-lab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Weinan and Zhu</title>
       <link>https://robot-vision-and-navigation-lab.github.io/author/weinan-and-zhu/</link>
     </image>
-    
-    <item>
-      <title>CEB-Map: Visual Localization Error Prediction for Safe Navigation</title>
-      <link>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</link>
-      <pubDate>Wed, 04 May 2022 05:40:53 +0000</pubDate>
-      <guid>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Dynamic Strategy of Keyframe Selection With PD Controller for VSLAM Systems</title>
@@ -41,6 +33,14 @@
       <link>https://robot-vision-and-navigation-lab.github.io/publication/robust-improvement-in-3d-object-landmark-inference-for-semantic-mapping/</link>
       <pubDate>Sun, 30 May 2021 05:44:21 +0000</pubDate>
       <guid>https://robot-vision-and-navigation-lab.github.io/publication/robust-improvement-in-3d-object-landmark-inference-for-semantic-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEB-Map: Visual Localization Error Prediction for Safe Navigation</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</link>
+      <pubDate>Sat, 15 May 2021 05:40:53 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</guid>
       <description></description>
     </item>
     
