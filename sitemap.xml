@@ -56,4 +56,6 @@
   <url>
     <loc>https://example.com/author/hong-zhang/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/author/li-he/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/research_highlights/</loc><changefreq>weekly</changefreq></url></urlset>
