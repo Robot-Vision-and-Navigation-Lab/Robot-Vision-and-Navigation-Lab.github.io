@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Robot Vision and Navigation Lab</title>
+    <link>https://robot-vision-and-navigation-lab.github.io/project/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jun 2022 07:10:14 +0000</lastBuildDate>
+    <image>
+      <url>https://robot-vision-and-navigation-lab.github.io/media/icon_hufd23fe07f913647ae034fd53d5c713c2_6850_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Relationship Oriented Semantic Scene Understanding for Daily Manpulation Tasks</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/project/relationship-oriented-semantic-scene-understanding-for-daily-manpulation-tasks/</link>
+      <pubDate>Sat, 18 Jun 2022 07:10:14 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/project/relationship-oriented-semantic-scene-understanding-for-daily-manpulation-tasks/</guid>
+      <description>&lt;p&gt;Assistive robot systems have been developed to help people accomplish daily manipulation tasks especially for those with disabilities, where scene understanding plays a crucial role in enabling robots to interpret the surroundings and behave accordingly. However, most of the current systems approach scene understanding without considering the functional dependencies between objects. In this research, we augment an assistive robotic arm system with an end-to-end semantic relationship reasoning model. It incorporates functional relationships between pairs of objects for semantic scene understanding. To ensure good generalization to unseen objects and relationships, the model works in a category-agnostic manner.  We further demonstrate the effectiveness of our pipeline by integrating it with a symbolic planner for goal-oriented, multi-step manipulation task.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
