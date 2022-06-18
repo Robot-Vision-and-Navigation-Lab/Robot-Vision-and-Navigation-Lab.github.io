@@ -17,7 +17,19 @@
       <link>https://robot-vision-and-navigation-lab.github.io/project/relationship-oriented-semantic-scene-understanding-for-daily-manpulation-tasks/</link>
       <pubDate>Sat, 18 Jun 2022 07:10:14 +0000</pubDate>
       <guid>https://robot-vision-and-navigation-lab.github.io/project/relationship-oriented-semantic-scene-understanding-for-daily-manpulation-tasks/</guid>
-      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+      <description>&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#about&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#authors&#34;&gt;Authors&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#videos&#34;&gt;Videos&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#releated-publications&#34;&gt;Releated Publications&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Assistive robot systems have been developed to help people accomplish daily manipulation tasks especially for those with disabilities, where scene understanding plays a crucial role in enabling robots to interpret the surroundings and behave accordingly. However, most of the current systems approach scene understanding without considering the functional dependencies between objects. In this research, we augment an assistive robotic arm system with an end-to-end semantic relationship reasoning model. It incorporates functional relationships between pairs of objects for semantic scene understanding. To ensure good generalization to unseen objects and relationships, the model works in a category-agnostic manner.  We further demonstrate the effectiveness of our pipeline by integrating it with a symbolic planner for goal-oriented, multi-step manipulation task.&lt;/p&gt;
 &lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
 &lt;p&gt;Chao Tang, Jingwen Yu, Weinan Chen, Bingyi Xia and Hong Zhang&lt;/p&gt;
