@@ -23,6 +23,11 @@
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#about&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#videos&#34;&gt;Videos&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#hahahugoshortcode-s1-hbhb&#34;&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/48rpq9SoPYo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#releated-publications&#34;&gt;Releated Publications&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
@@ -31,6 +36,11 @@
 &lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Assistive robot systems have been developed to help people accomplish daily manipulation tasks especially for those with disabilities, where scene understanding plays a crucial role in enabling robots to interpret the surroundings and behave accordingly. However, most of the current systems approach scene understanding without considering the functional dependencies between objects. In this research, we augment an assistive robotic arm system with an end-to-end semantic relationship reasoning model. It incorporates functional relationships between pairs of objects for semantic scene understanding. To ensure good generalization to unseen objects and relationships, the model works in a category-agnostic manner.  We further demonstrate the effectiveness of our pipeline by integrating it with a symbolic planner for goal-oriented, multi-step manipulation task.&lt;/p&gt;
 &lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+&lt;h2 id=&#34;hahahugoshortcode-s1-hbhb&#34;&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/48rpq9SoPYo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/h2&gt;
 &lt;h2 id=&#34;releated-publications&#34;&gt;Releated Publications&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;Relationship%20Oriented%20Semantic%20Scene%20Understanding%20for%20Daily%20Manipulation%20Tasks&#34;&gt;Relationship Oriented Semantic Scene Understanding for Daily Manipulation Tasks&lt;/a&gt;&lt;/strong&gt; (submitted to IROS 2022, under review)&lt;/p&gt;
 </description>
